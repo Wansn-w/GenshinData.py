@@ -1,0 +1,71 @@
+AvatarCodexExcelConfigData.json 角色开放时间
+AvatarCostumeExcelConfigData.json 角色衣装 *
+AvatarCurveExcelConfigData.json 角色属性成长曲线 *
+AvatarExcelConfigData.json 角色信息 *
+AvatarFettersLevelExcelConfigData.json 角色好感所需经验 *
+AvatarFlycloakExcelConfigData.json 风之翼 *
+AvatarLevelExcelConfigData.json 升级所需经验 *
+AvatarPromoteExcelConfigData.json 角色突破消耗 *
+AvatarSkillExcelConfigData.json 角色技能
+AvatarTalentExcelConfigData.json 角色命座 *
+ChapterExcelConfigData.json 剧情
+CityConfigData.json 国家/神像
+CombineExcelConfigData.json 合成台 *
+CookBonusExcelConfigData.json 角色特殊料理 *
+CookRecipeExcelConfigData.json 料理食谱 *
+DailyDungeonConfigData.json 每日秘境奖励 *
+DailyTaskExcelConfigData.json 每日委托
+DailyTaskLevelExcelConfigData.json 每日委托限制
+DailyTaskRewardExcelConfigData.json 每日委托奖励
+DialogExcelConfigData.json 对话
+DieTypeTipsExcelConfigData.json 死亡提示
+DocumentExcelConfigData.json 书籍
+DungeonChallengeConfigData.json 秘境挑战
+DungeonExcelConfigData.json 秘境
+EmbeddedTextMapConfigData.json UI文本
+EmojiSetDataExcelConfigData.json 表情
+EquipAffixExcelConfigData.json 武器效果
+FetterInfoExcelConfigData.json 角色对话/详情
+FettersExcelConfigData.json 角色语音
+FetterStoryExcelConfigData.json 角色故事
+ForgeExcelConfigData.json 锻造
+GadgetExcelConfigData.json 道具 （实体，技能、武器、物品）
+GadgetCurveExcelConfigData.json 道具成长
+GadgetTitleExcelConfigData.json 道具名称
+HandbookQuestGuideExcelConfigData.json 冒险手册提示
+HomeWorldFurnitureExcelConfigData.json 尘歌壶家具
+HomeWorldFurnitureTypeExcelConfigData.json 尘歌壶家具类别
+LoadingTipsExcelConfigData.json 加载画面提示文本
+LocalizationExcelConfigData.json 本地化
+MailExcelConfigData.json 邮件
+ManualTextMapConfigData.json 说明文本
+MaterialExcelConfigData.json 材料
+MonsterCurveExcelConfigData.json 魔物成长曲线
+MonsterDescribeExcelConfigData.json 魔物名称
+MonsterExcelConfigData.json 魔物
+MonsterRelationshipExcelConfigData.json 魔物关系
+MonsterSpecialNameExcelConfigData.json 特殊魔物名字
+MonsterTitleExcelConfigData.json 魔物boss栏
+NpcExcelConfigData.json Npc
+NpcFirstMetExcelConfigData.json 角色初次见面
+OptionExcelConfigData.json (对话)选项文本
+PersonalLineActivityExcelConfigData.json 传说任务简介
+PersonalLineExcelConfigData.json 传说任务
+PlayerLevelExcelConfigData.json 玩家等级奖励
+PushTipsConfigData.json 玩法图鉴
+QuestExcelConfigData.json 剧情
+ReliquaryAffixExcelConfigData.json 圣遗物属性值
+\ReliquaryCodexExcelConfigData.json 圣遗物拆分
+ReliquaryExcelConfigData.json 圣遗物
+ReliquaryLevelExcelConfigData.json 圣遗物属性成长曲线
+ReliquaryMainPropExcelConfigData.json 圣遗物主属性
+ReliquarySetExcelConfigData.json 圣遗物套装
+ReminderExcelConfigData.json 派蒙啰嗦
+ReputationCityExcelConfigData.json 城市声望
+ReputationLevelExcelConfigData.json 城市声望等级
+SceneExcelConfigData.json 场景
+TowerBuffExcelConfigData.json 深境螺旋加成
+WeaponCodexExcelConfigData.json 武器拆分
+WeaponCurveExcelConfigData.json 武器成长
+WeaponExcelConfigData.json 武器
+WeaponLevelExcelConfigData.json 武器等级
